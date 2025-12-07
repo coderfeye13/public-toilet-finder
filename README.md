@@ -1,9 +1,8 @@
-````markdown
 # 🧭 Public Toilet Finder – Kiel
 
-> **A Web Mapping Application using Vue 3, Vite, OpenLayers & GeoServer (WFS)**
+> **A Web Mapping Application using Vue 3, Vite, OpenLayers & GeoServer (WFS & WMS)**
 
-This project is a web-based map application that displays public toilets in the city of Kiel. The toilet locations are extracted from OpenStreetMap (OSM), published via GeoServer as a WFS layer, and rendered on an interactive map using OpenLayers.
+This project is a web-based map application that displays public toilets in the city of Kiel. The toilet locations are extracted from OpenStreetMap (OSM), published via GeoServer as both a WFS and WMS service, and rendered on an interactive map using OpenLayers.
 
 **Users can:**
 
@@ -13,7 +12,7 @@ This project is a web-based map application that displays public toilets in the 
 - Use custom floating map controls (Zoom In, Zoom Out, Recenter)
 - Navigate a responsive and highly accessible interface
 
-_This application was developed as part of a university GIS/web mapping assignment._
+_This application was developed as part of a university GIS / Web Mapping assignment._
 
 ---
 
@@ -23,7 +22,6 @@ After building the project, you can preview the production build locally:
 
 ```bash
 npm run preview
-```
 ````
 
 The application will be available at:  
