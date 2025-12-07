@@ -1,0 +1,2753 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-01T14:04:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26741445",
+        "access": "private",
+        "amenity": "toilets",
+        "building": "yes",
+        "seamark:small_craft_facility:category": "toilets;showers",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1780802,
+              54.329994
+            ],
+            [
+              10.1780686,
+              54.3299533
+            ],
+            [
+              10.1784932,
+              54.329916
+            ],
+            [
+              10.1785013,
+              54.3299571
+            ],
+            [
+              10.1780802,
+              54.329994
+            ]
+          ]
+        ]
+      },
+      "id": "way/26741445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/68237544",
+        "amenity": "toilets",
+        "building": "yes",
+        "name": "WC Sporthafen",
+        "note": "for sailors only",
+        "operator": "Sporthafen Kiel-Wellingdorf",
+        "seamark:small_craft_facility:category": "toilets",
+        "seamark:type": "small_craft_facility",
+        "source": "Bing",
+        "wheelchair": "yes",
+        "wikidata": "Q55827846"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1711321,
+              54.3287808
+            ],
+            [
+              10.1711171,
+              54.328821
+            ],
+            [
+              10.1709954,
+              54.3288057
+            ],
+            [
+              10.170952,
+              54.3288843
+            ],
+            [
+              10.1708947,
+              54.3288739
+            ],
+            [
+              10.1708855,
+              54.3288719
+            ],
+            [
+              10.1709428,
+              54.3287565
+            ],
+            [
+              10.1710977,
+              54.3287764
+            ],
+            [
+              10.1711321,
+              54.3287808
+            ]
+          ]
+        ]
+      },
+      "id": "way/68237544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93488115",
+        "amenity": "toilets",
+        "building": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2519431,
+              54.4154744
+            ],
+            [
+              10.2519363,
+              54.4155868
+            ],
+            [
+              10.2517678,
+              54.4155833
+            ],
+            [
+              10.2517747,
+              54.4154709
+            ],
+            [
+              10.2519431,
+              54.4154744
+            ]
+          ]
+        ]
+      },
+      "id": "way/93488115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93488128",
+        "amenity": "toilets",
+        "building": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2508593,
+              54.4151729
+            ],
+            [
+              10.2508486,
+              54.4152683
+            ],
+            [
+              10.2503954,
+              54.4152513
+            ],
+            [
+              10.2504061,
+              54.4151558
+            ],
+            [
+              10.2508593,
+              54.4151729
+            ]
+          ]
+        ]
+      },
+      "id": "way/93488128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93489189",
+        "amenity": "toilets",
+        "building": "yes",
+        "shower": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2441668,
+              54.4153032
+            ],
+            [
+              10.2442031,
+              54.4151205
+            ],
+            [
+              10.2443424,
+              54.4151298
+            ],
+            [
+              10.244306,
+              54.4153127
+            ],
+            [
+              10.2441668,
+              54.4153032
+            ]
+          ]
+        ]
+      },
+      "id": "way/93489189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93489199",
+        "amenity": "toilets",
+        "building": "yes",
+        "shower": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2454451,
+              54.4158252
+            ],
+            [
+              10.245448,
+              54.4157478
+            ],
+            [
+              10.2456478,
+              54.4157503
+            ],
+            [
+              10.245645,
+              54.4158277
+            ],
+            [
+              10.2454451,
+              54.4158252
+            ]
+          ]
+        ]
+      },
+      "id": "way/93489199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93773560",
+        "amenity": "toilets",
+        "building": "yes",
+        "name": "San. II",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2462761,
+              54.4144618
+            ],
+            [
+              10.2463113,
+              54.414329
+            ],
+            [
+              10.2464465,
+              54.4143411
+            ],
+            [
+              10.2464113,
+              54.4144739
+            ],
+            [
+              10.2462761,
+              54.4144618
+            ]
+          ]
+        ]
+      },
+      "id": "way/93773560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/178612168",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1959738,
+              54.3787598
+            ],
+            [
+              10.1959119,
+              54.3787565
+            ],
+            [
+              10.1959231,
+              54.3786853
+            ],
+            [
+              10.195985,
+              54.3786886
+            ],
+            [
+              10.1959738,
+              54.3787598
+            ]
+          ]
+        ]
+      },
+      "id": "way/178612168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187021269",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "shower": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1821706,
+              54.4116267
+            ],
+            [
+              10.1819378,
+              54.4115648
+            ],
+            [
+              10.1819989,
+              54.411487
+            ],
+            [
+              10.1822317,
+              54.4115489
+            ],
+            [
+              10.1821706,
+              54.4116267
+            ]
+          ]
+        ]
+      },
+      "id": "way/187021269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227141947",
+        "amenity": "toilets",
+        "building": "yes",
+        "opening_hours": "Apr 01 - Oct 15: Mo-Su 10:00-23:30",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1521034,
+              54.3463205
+            ],
+            [
+              10.1520425,
+              54.3463701
+            ],
+            [
+              10.1518957,
+              54.3463088
+            ],
+            [
+              10.1519566,
+              54.3462592
+            ],
+            [
+              10.1521034,
+              54.3463205
+            ]
+          ]
+        ]
+      },
+      "id": "way/227141947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255241146",
+        "amenity": "toilets",
+        "building": "yes",
+        "note": "saisonal geöffnet",
+        "source": "Openstreetbugs",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3194541,
+              54.4338366
+            ],
+            [
+              10.3194716,
+              54.4338119
+            ],
+            [
+              10.3195677,
+              54.4338349
+            ],
+            [
+              10.3195502,
+              54.4338597
+            ],
+            [
+              10.3194541,
+              54.4338366
+            ]
+          ]
+        ]
+      },
+      "id": "way/255241146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274208649",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "yes",
+        "material": "metal",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "opening_hours:lastcheck": "2017-08-23",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1405344,
+              54.3230422
+            ],
+            [
+              10.140511,
+              54.3230204
+            ],
+            [
+              10.1405565,
+              54.3230038
+            ],
+            [
+              10.1405799,
+              54.3230257
+            ],
+            [
+              10.1405344,
+              54.3230422
+            ]
+          ]
+        ]
+      },
+      "id": "way/274208649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293594713",
+        "amenity": "toilets",
+        "building": "yes",
+        "drinking_water": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1750467,
+              54.3328812
+            ],
+            [
+              10.1750906,
+              54.3328473
+            ],
+            [
+              10.175216,
+              54.3329026
+            ],
+            [
+              10.1751721,
+              54.3329364
+            ],
+            [
+              10.1750467,
+              54.3328812
+            ]
+          ]
+        ]
+      },
+      "id": "way/293594713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294137645",
+        "amenity": "toilets",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1875164,
+              54.4016017
+            ],
+            [
+              10.1875239,
+              54.4015798
+            ],
+            [
+              10.1875603,
+              54.4015726
+            ],
+            [
+              10.187589,
+              54.4015874
+            ],
+            [
+              10.1875815,
+              54.4016093
+            ],
+            [
+              10.1875452,
+              54.4016164
+            ],
+            [
+              10.1875164,
+              54.4016017
+            ]
+          ]
+        ]
+      },
+      "id": "way/294137645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342447810",
+        "access": "customers",
+        "addr:housenumber": "58",
+        "addr:street": "Mecklenburger Straße",
+        "amenity": "toilets",
+        "building": "yes",
+        "check_date": "2022-10-09",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1466201,
+              54.3639139
+            ],
+            [
+              10.1466013,
+              54.3638932
+            ],
+            [
+              10.1466369,
+              54.3638822
+            ],
+            [
+              10.1466557,
+              54.3639029
+            ],
+            [
+              10.1466201,
+              54.3639139
+            ]
+          ]
+        ]
+      },
+      "id": "way/342447810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380002557",
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "toilets",
+        "building:levels": "1",
+        "check_date:opening_hours": "2024-09-13",
+        "fee": "yes",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-19:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1334982,
+              54.3188876
+            ],
+            [
+              10.1334646,
+              54.3188469
+            ],
+            [
+              10.1334579,
+              54.3188323
+            ],
+            [
+              10.1334162,
+              54.3187818
+            ],
+            [
+              10.1334835,
+              54.3187629
+            ],
+            [
+              10.1335252,
+              54.3188134
+            ],
+            [
+              10.1335445,
+              54.3188245
+            ],
+            [
+              10.1335781,
+              54.3188652
+            ],
+            [
+              10.1334982,
+              54.3188876
+            ]
+          ]
+        ]
+      },
+      "id": "way/380002557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/520608775",
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "building:levels": "1",
+        "changing_table": "no",
+        "fee": "no",
+        "roof:shape": "flat",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2456529,
+              54.2883791
+            ],
+            [
+              10.2456019,
+              54.2883517
+            ],
+            [
+              10.2456725,
+              54.2883069
+            ],
+            [
+              10.2457235,
+              54.2883343
+            ],
+            [
+              10.2457105,
+              54.2883426
+            ],
+            [
+              10.2456659,
+              54.2883708
+            ],
+            [
+              10.2456529,
+              54.2883791
+            ]
+          ]
+        ]
+      },
+      "id": "way/520608775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/602430192",
+        "amenity": "toilets",
+        "building": "yes",
+        "building:levels": "1",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1893681,
+              54.3992017
+            ],
+            [
+              10.1893922,
+              54.3992147
+            ],
+            [
+              10.1894059,
+              54.3992321
+            ],
+            [
+              10.1894068,
+              54.3992512
+            ],
+            [
+              10.1893949,
+              54.3992691
+            ],
+            [
+              10.1893721,
+              54.3992829
+            ],
+            [
+              10.1893353,
+              54.399291
+            ],
+            [
+              10.1892962,
+              54.3992884
+            ],
+            [
+              10.1892636,
+              54.3992756
+            ],
+            [
+              10.1892447,
+              54.3992555
+            ],
+            [
+              10.1892437,
+              54.3992328
+            ],
+            [
+              10.1892608,
+              54.3992122
+            ],
+            [
+              10.1892921,
+              54.3991986
+            ],
+            [
+              10.1893307,
+              54.3991948
+            ],
+            [
+              10.1893681,
+              54.3992017
+            ]
+          ]
+        ]
+      },
+      "id": "way/602430192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718164992",
+        "access": "customers",
+        "amenity": "toilets",
+        "building": "yes",
+        "changing_table": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "operator": "Freilichtmuseum Molfsee",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.0852108,
+              54.2795739
+            ],
+            [
+              10.0852092,
+              54.2795968
+            ],
+            [
+              10.0850523,
+              54.2795929
+            ],
+            [
+              10.0850539,
+              54.27957
+            ],
+            [
+              10.0852108,
+              54.2795739
+            ]
+          ]
+        ]
+      },
+      "id": "way/718164992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718164993",
+        "access": "customers",
+        "amenity": "toilets",
+        "building": "yes",
+        "changing_table": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.0843948,
+              54.2775598
+            ],
+            [
+              10.0843948,
+              54.2775135
+            ],
+            [
+              10.0844839,
+              54.2775135
+            ],
+            [
+              10.0844838,
+              54.2775599
+            ],
+            [
+              10.0843948,
+              54.2775598
+            ]
+          ]
+        ]
+      },
+      "id": "way/718164993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718898598",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "fee": "yes",
+        "indoor": "room",
+        "level": "1",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Hering",
+        "toilets:disposal": "flush",
+        "website": "https://www.wc-fresh.com/standort/kiel-hauptbahnhof/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1313699,
+              54.3152108
+            ],
+            [
+              10.1312981,
+              54.3150876
+            ],
+            [
+              10.1314446,
+              54.3150596
+            ],
+            [
+              10.1315139,
+              54.3151833
+            ],
+            [
+              10.1313699,
+              54.3152108
+            ]
+          ]
+        ]
+      },
+      "id": "way/718898598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749414176",
+        "amenity": "toilets",
+        "building": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2242247,
+              54.3344552
+            ],
+            [
+              10.2241805,
+              54.3344654
+            ],
+            [
+              10.2241369,
+              54.3344015
+            ],
+            [
+              10.2241811,
+              54.3343912
+            ],
+            [
+              10.2242247,
+              54.3344552
+            ]
+          ]
+        ]
+      },
+      "id": "way/749414176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/893806703",
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.0543624,
+              54.3221075
+            ],
+            [
+              10.0544147,
+              54.3221279
+            ],
+            [
+              10.054378,
+              54.32216
+            ],
+            [
+              10.0543257,
+              54.3221397
+            ],
+            [
+              10.0543624,
+              54.3221075
+            ]
+          ]
+        ]
+      },
+      "id": "way/893806703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961849226",
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "toilets",
+        "building:levels": "1",
+        "building:use": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2848702,
+              54.4116744
+            ],
+            [
+              10.2849128,
+              54.4116934
+            ],
+            [
+              10.284862,
+              54.4117321
+            ],
+            [
+              10.2848194,
+              54.4117131
+            ],
+            [
+              10.2848702,
+              54.4116744
+            ]
+          ]
+        ]
+      },
+      "id": "way/961849226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/993627910",
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "changing_table": "no",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1756692,
+              54.3325727
+            ],
+            [
+              10.1755412,
+              54.3325136
+            ],
+            [
+              10.1755686,
+              54.3324934
+            ],
+            [
+              10.1756966,
+              54.3325525
+            ],
+            [
+              10.1756692,
+              54.3325727
+            ]
+          ]
+        ]
+      },
+      "id": "way/993627910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160228040",
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "toilets",
+        "centralkey": "eurokey",
+        "changing_table": "yes",
+        "charge": "0.5 EUR",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "ABK Abfallwirtschaftsbetrieb Kiel",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1510569,
+              54.3337585
+            ],
+            [
+              10.1510186,
+              54.3336706
+            ],
+            [
+              10.1510901,
+              54.33366
+            ],
+            [
+              10.1511285,
+              54.3337479
+            ],
+            [
+              10.1510569,
+              54.3337585
+            ]
+          ]
+        ]
+      },
+      "id": "way/1160228040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317423852",
+        "amenity": "toilets",
+        "building": "toilets",
+        "fee": "yes",
+        "supervised": "no",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1742819,
+              54.3951819
+            ],
+            [
+              10.1743242,
+              54.3951375
+            ],
+            [
+              10.1743807,
+              54.3951558
+            ],
+            [
+              10.1743384,
+              54.3952001
+            ],
+            [
+              10.1742819,
+              54.3951819
+            ]
+          ]
+        ]
+      },
+      "id": "way/1317423852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1338810698",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "description": "WC, Rollstuhlgerecht, Barrierefrei",
+        "fee": "no",
+        "level": "0",
+        "operator": "Karrierecenter der Bundeswehr Kiel",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated",
+        "unisex": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1388413,
+              54.3592841
+            ],
+            [
+              10.1388178,
+              54.3592579
+            ],
+            [
+              10.1388822,
+              54.359245
+            ],
+            [
+              10.1389096,
+              54.3592747
+            ],
+            [
+              10.1388413,
+              54.3592841
+            ]
+          ]
+        ]
+      },
+      "id": "way/1338810698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298979060",
+        "amenity": "toilets",
+        "check_date": "2025-10-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.229965,
+          54.4111242
+        ]
+      },
+      "id": "node/298979060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300538269",
+        "amenity": "toilets",
+        "fee": "yes",
+        "female": "yes",
+        "male": "yes",
+        "opening_hours": "Mo-Su,PH 08:00-21:00",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.218725,
+          54.4038869
+        ]
+      },
+      "id": "node/300538269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/361211958",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2674141,
+          54.41702
+        ]
+      },
+      "id": "node/361211958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/384920325",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "check_date": "2022-01-03",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2783695,
+          54.4174297
+        ]
+      },
+      "id": "node/384920325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/386156627",
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1268906,
+          54.3218237
+        ]
+      },
+      "id": "node/386156627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387494966",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "check_date": "2024-10-13",
+        "check_date:opening_hours": "2024-10-13",
+        "fee": "no",
+        "opening_hours": "08:00-20:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1354117,
+          54.3229901
+        ]
+      },
+      "id": "node/387494966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429486572",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "fee": "no",
+        "seamark:small_craft_facility:category": "toilets",
+        "seamark:type": "small_craft_facility",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1710787,
+          54.427834
+        ]
+      },
+      "id": "node/429486572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430267165",
+        "amenity": "toilets",
+        "fee": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2294177,
+          54.4118441
+        ]
+      },
+      "id": "node/430267165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/464125876",
+        "amenity": "toilets",
+        "fee": "no",
+        "operator": "Minigolf & Mee(h)r",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1900514,
+          54.4029063
+        ]
+      },
+      "id": "node/464125876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/473137692",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "fee": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2960177,
+          54.4275753
+        ]
+      },
+      "id": "node/473137692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513504647",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "opening_hours": "Mo-Su,PH 07:00-21:00",
+        "seamark:small_craft_facility:category": "toilets",
+        "seamark:type": "small_craft_facility",
+        "toilets:disposal": "flush",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1719896,
+          54.4368857
+        ]
+      },
+      "id": "node/513504647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611663445",
+        "amenity": "toilets",
+        "check_date": "2024-08-08",
+        "check_date:opening_hours": "2024-08-24",
+        "fee": "yes",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Abfallwirtschaftsbetrieb Kiel",
+        "unisex": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1317544,
+          54.3298988
+        ]
+      },
+      "id": "node/611663445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/684372893",
+        "amenity": "toilets",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1799257,
+          54.3592264
+        ]
+      },
+      "id": "node/684372893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/741687471",
+        "amenity": "toilets",
+        "check_date": "2022-08-14",
+        "fee": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0268894,
+          54.3677795
+        ]
+      },
+      "id": "node/741687471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/748874732",
+        "amenity": "toilets",
+        "fee": "no",
+        "indoor": "yes",
+        "supervised": "interval",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1266485,
+          54.4008589
+        ]
+      },
+      "id": "node/748874732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/761833929",
+        "amenity": "toilets",
+        "seamark:small_craft_facility:category": "toilets;showers;laundrette",
+        "seamark:type": "small_craft_facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2168857,
+          54.4011652
+        ]
+      },
+      "id": "node/761833929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/799336888",
+        "amenity": "toilets",
+        "fee": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1744656,
+          54.3287476
+        ]
+      },
+      "id": "node/799336888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/846736680",
+        "amenity": "toilets",
+        "fee": "no",
+        "note": "Behindertentoilette",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1870364,
+          54.3277499
+        ]
+      },
+      "id": "node/846736680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/908756530",
+        "access": "customers",
+        "amenity": "toilets",
+        "check_date": "2024-08-25",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "operator": "Freilichtmuseum Molfsee",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0768896,
+          54.2752864
+        ]
+      },
+      "id": "node/908756530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/924414890",
+        "access": "customers",
+        "amenity": "toilets",
+        "seamark:small_craft_facility:category": "toilets;showers",
+        "seamark:type": "small_craft_facility",
+        "wheelchair": "yes",
+        "wheelchair:description": "Für die Behindertentoilette benötigt man den Euro-Schlüssel für Behinderte!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1520722,
+          54.3336391
+        ]
+      },
+      "id": "node/924414890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/936978668",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2000875,
+          54.3802977
+        ]
+      },
+      "id": "node/936978668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/936978670",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "opening_hours": "Apr-Oct 08:00-21:00,Nov\n-Mar 08:00-18:00",
+        "seamark:small_craft_facility:category": "toilets",
+        "seamark:type": "small_craft_facility",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1959885,
+          54.3767197
+        ]
+      },
+      "id": "node/936978670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/936978673",
+        "amenity": "toilets",
+        "fee": "no",
+        "opening_hours": "Apr-Oct PH,Mo-Su 08:00-21:00; Nov-Mar PH,Mo-Su 08:00-18:00",
+        "seamark:small_craft_facility:category": "toilets;showers",
+        "seamark:type": "small_craft_facility",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1968736,
+          54.3746333
+        ]
+      },
+      "id": "node/936978673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/968258195",
+        "amenity": "toilets",
+        "check_date": "2023-07-22",
+        "fee": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2189861,
+          54.4060614
+        ]
+      },
+      "id": "node/968258195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1397093846",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "fee": "yes",
+        "name": "WC - Center im CAP Kiel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1323872,
+          54.31493
+        ]
+      },
+      "id": "node/1397093846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1494422735",
+        "access": "customers",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "changing_table:count": "1",
+        "changing_table:location": "female_toilet",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "operator": "Freilichtmuseum Molfsee",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "unisex": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0811869,
+          54.2763854
+        ]
+      },
+      "id": "node/1494422735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1591352914",
+        "access": "customers",
+        "amenity": "toilets",
+        "wheelchair": "no",
+        "wheelchair:description": "Tür zu schmal, innen zu eng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1759039,
+          54.4380903
+        ]
+      },
+      "id": "node/1591352914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2000442145",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "check_date:wheelchair": "2021-03-02",
+        "fee": "no",
+        "note": "Rollstuhlgerechte Toilette",
+        "wheelchair": "yes",
+        "wheelchair:description": "Während der regulären Öffnungszeiten Mo-Fr 7:30-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1355946,
+          54.3271982
+        ]
+      },
+      "id": "node/2000442145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2330010395",
+        "amenity": "toilets",
+        "check_date": "2021-07-14",
+        "fee": "no",
+        "opening_hours": "Mo-Sa 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1467479,
+          54.311217
+        ]
+      },
+      "id": "node/2330010395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358878992",
+        "amenity": "toilets",
+        "check_date": "2025-08-01",
+        "check_date:opening_hours": "2023-09-08",
+        "fee": "no",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa 12:00-21:00; Su 12:00-20:00",
+        "opening_hours:signed": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1216348,
+          54.3225776
+        ]
+      },
+      "id": "node/2358878992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358879070",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "entrance": "yes",
+        "fee": "yes",
+        "level": "0",
+        "opening_hours": "Mo,Th 06:00-16:00; Tu,We,Fr 08:00-18:00; Sa,Su 10:00-18:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1369421,
+          54.3418348
+        ]
+      },
+      "id": "node/2358879070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2509339485",
+        "amenity": "toilets",
+        "check_date": "2021-09-01",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1156802,
+          54.3473678
+        ]
+      },
+      "id": "node/2509339485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2509339486",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "check_date": "2021-09-01",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1176207,
+          54.3457223
+        ]
+      },
+      "id": "node/2509339486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2977061302",
+        "amenity": "toilets",
+        "toilets:disposal": "flush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1894588,
+          54.4013959
+        ]
+      },
+      "id": "node/2977061302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3016575553",
+        "amenity": "toilets",
+        "note:de": "Dixi Klos von toitoidixi.de",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0015335,
+          54.3548651
+        ]
+      },
+      "id": "node/3016575553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3247690854",
+        "access": "customers",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "check_date": "2025-07-31",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1812305,
+          54.3296917
+        ]
+      },
+      "id": "node/3247690854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3266625901",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1152733,
+          54.3481558
+        ]
+      },
+      "id": "node/3266625901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3312255553",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2854822,
+          54.3598682
+        ]
+      },
+      "id": "node/3312255553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3312264914",
+        "amenity": "toilets",
+        "check_date": "2021-09-06",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2892829,
+          54.3624646
+        ]
+      },
+      "id": "node/3312264914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3717577954",
+        "access": "yes",
+        "addr:floor": "0",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "charge": "0.50 EUR",
+        "check_date": "2025-11-30",
+        "check_date:opening_hours": "2025-05-11",
+        "fee": "yes",
+        "level": "0",
+        "material": "metal",
+        "note": "closed for the night(?)",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1309131,
+          54.31112
+        ]
+      },
+      "id": "node/3717577954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4068469089",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "fee": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1276044,
+          54.3450439
+        ]
+      },
+      "id": "node/4068469089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705291493",
+        "access": "private",
+        "amenity": "toilets",
+        "drinking_water": "no",
+        "toilets:disposal": "chemical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9870877,
+          54.3054984
+        ]
+      },
+      "id": "node/4705291493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729445824",
+        "amenity": "toilets",
+        "check_date": "2025-09-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3020229,
+          54.2754987
+        ]
+      },
+      "id": "node/4729445824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4960727777",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2486648,
+          54.2768394
+        ]
+      },
+      "id": "node/4960727777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6000036519",
+        "amenity": "toilets",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2222245,
+          54.4076874
+        ]
+      },
+      "id": "node/6000036519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6187615296",
+        "amenity": "toilets",
+        "operator": "Gemeindeverwaltung Heikendorf",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046871,
+          54.3703592
+        ]
+      },
+      "id": "node/6187615296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6533867001",
+        "access": "yes",
+        "amenity": "toilets",
+        "baby_feeding": "room",
+        "baby_feeding:description": "Bequemer Stuhl im Wickelraum",
+        "changing_table": "yes",
+        "changing_table:fee": "no",
+        "changing_table:location": "dedicated_room",
+        "fee": "no",
+        "level": "1;2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.097782,
+          54.3126024
+        ]
+      },
+      "id": "node/6533867001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6660269792",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "fee": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1306742,
+          54.3167854
+        ]
+      },
+      "id": "node/6660269792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6699012253",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "changing_table:count": "1",
+        "changing_table:description": "Im Vorraum der Damentoilette",
+        "changing_table:fee": "no",
+        "changing_table:location": "room",
+        "level": "2",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1296011,
+          54.3181629
+        ]
+      },
+      "id": "node/6699012253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6699885988",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "fee": "no",
+        "hot_water": "no",
+        "opening_hours": "24/7",
+        "operator": "Stadt Kiel",
+        "toilets:access": "yes",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "no",
+        "toilets:num_chambers": "2",
+        "toilets:paper_supplied": "no",
+        "toilets:position": "urinal",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1317043,
+          54.3157075
+        ]
+      },
+      "id": "node/6699885988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7428732903",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "check_date:wheelchair": "2025-02-14",
+        "fee": "yes",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1258641,
+          54.3281213
+        ]
+      },
+      "id": "node/7428732903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7666836086",
+        "access": "permissive",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "fee": "no",
+        "seasonal": "summer",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1512197,
+          54.3323583
+        ]
+      },
+      "id": "node/7666836086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7670816130",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "check_date": "2023-07-22",
+        "fee": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2224134,
+          54.4079635
+        ]
+      },
+      "id": "node/7670816130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7716795384",
+        "amenity": "toilets",
+        "fee": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1808895,
+          54.4443251
+        ]
+      },
+      "id": "node/7716795384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7859063566",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "fee": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1766601,
+          54.3445944
+        ]
+      },
+      "id": "node/7859063566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8061833566",
+        "amenity": "toilets",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1181225,
+          54.3142573
+        ]
+      },
+      "id": "node/8061833566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8354850167",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "fee": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1388526,
+          54.3651827
+        ]
+      },
+      "id": "node/8354850167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8381053645",
+        "access": "customers",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1156178,
+          54.3323462
+        ]
+      },
+      "id": "node/8381053645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9160183420",
+        "access": "no",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0886223,
+          54.3410926
+        ]
+      },
+      "id": "node/9160183420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9201068951",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10537,
+          54.3346849
+        ]
+      },
+      "id": "node/9201068951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9201068987",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "no",
+        "toilets:disposal": "flush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0995927,
+          54.3341875
+        ]
+      },
+      "id": "node/9201068987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9201068988",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "no",
+        "male": "yes",
+        "toilets:disposal": "flush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0991276,
+          54.3343305
+        ]
+      },
+      "id": "node/9201068988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9332371858",
+        "access": "customers",
+        "amenity": "toilets",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0527315,
+          54.3207693
+        ]
+      },
+      "id": "node/9332371858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9405155145",
+        "amenity": "toilets",
+        "fee": "no",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1307437,
+          54.3160867
+        ]
+      },
+      "id": "node/9405155145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10005047096",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1331711,
+          54.316517
+        ]
+      },
+      "id": "node/10005047096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10117272855",
+        "access": "customers",
+        "amenity": "toilets",
+        "centralkey": "eurokey",
+        "description": "Toilette für alle",
+        "operator": "ABK Abfallwirtschaftsbetrieb Kiel",
+        "toilets:disposal": "flush",
+        "website": "https://www.toiletten-fuer-alle.de/wo-wie/liste-standorte-der-toiletten-fuer-alle/bootshafen-kiel-steckbrief-toiletten-fuer-alle.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1377933,
+          54.3212623
+        ]
+      },
+      "id": "node/10117272855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11048276630",
+        "access": "customers",
+        "amenity": "toilets",
+        "female": "yes",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0721101,
+          54.2857505
+        ]
+      },
+      "id": "node/11048276630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061756167",
+        "access": "customers",
+        "amenity": "toilets",
+        "check_date": "2023-07-22",
+        "fee": "no",
+        "toilets:handwashing": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2312183,
+          54.4114548
+        ]
+      },
+      "id": "node/11061756167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11071810279",
+        "access": "customers",
+        "amenity": "toilets",
+        "fee": "no",
+        "operator": "Esso Tankstelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1611304,
+          54.3165669
+        ]
+      },
+      "id": "node/11071810279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11840524975",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "check_date": "2025-01-14",
+        "check_date:wheelchair": "2025-01-14",
+        "fee": "no",
+        "level": "1",
+        "opening_hours": "\"wie das Hörnbad\"",
+        "operator": "Kieler Schwimm- und Sportstättenbetriebe",
+        "toilets:disposal": "flush",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1350955,
+          54.3088675
+        ]
+      },
+      "id": "node/11840524975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12095916763",
+        "access": "customers",
+        "amenity": "toilets",
+        "check_date": "2024-08-04",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "toilets:position": "inside",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1636672,
+          54.3795928
+        ]
+      },
+      "id": "node/12095916763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12757336285",
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "check_date": "2025-08-22",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2822776,
+          54.4192001
+        ]
+      },
+      "id": "node/12757336285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12757336286",
+        "access": "yes",
+        "amenity": "toilets",
+        "unisex": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2902947,
+          54.4192406
+        ]
+      },
+      "id": "node/12757336286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12762023449",
+        "amenity": "toilets",
+        "check_date": "2025-06-18",
+        "check_date:wheelchair": "2025-06-18",
+        "description": "Zugang über den Sitzbereich der Bäckerei",
+        "fee": "no",
+        "level": "0",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108709,
+          54.3087285
+        ]
+      },
+      "id": "node/12762023449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13075042433",
+        "access": "private",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1626999,
+          54.386192
+        ]
+      },
+      "id": "node/13075042433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13092617392",
+        "access": "yes",
+        "amenity": "toilets",
+        "charge": "0.5 EUR",
+        "check_date": "2025-10-04",
+        "check_date:opening_hours": "2025-10-04",
+        "fee": "yes",
+        "opening_hours:signed": "no",
+        "toilets:disposal": "flush",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1579089,
+          54.3368229
+        ]
+      },
+      "id": "node/13092617392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13093838597",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2883783,
+          54.4195526
+        ]
+      },
+      "id": "node/13093838597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13093893908",
+        "access": "customers",
+        "amenity": "toilets",
+        "check_date": "2025-08-24",
+        "check_date:opening_hours": "2025-08-24",
+        "check_date:wheelchair": "2025-08-24",
+        "opening_hours": "24/7",
+        "toilets:disposal": "flush",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1575026,
+          54.3377318
+        ]
+      },
+      "id": "node/13093893908"
+    }
+  ]
+}
