@@ -1,9 +1,9 @@
-````markdown
 # 🧭 Public Toilet Finder – Kiel
 
 ## 📸 Application Preview
 
 ![Public Toilet Finder - Kiel](./screenshots/app-preview.png)
+
 
 > **A Web Mapping Application using Vue 3, Vite, OpenLayers & GeoServer (WFS)**
 
@@ -28,7 +28,7 @@ After building the project, you can preview the production build locally:
 ```bash
 npm run preview
 ```
-````
+
 
 The application will be available at:  
 **http://localhost:4173**
