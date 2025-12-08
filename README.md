@@ -138,7 +138,7 @@ bbox={extent},EPSG:3857
 ### 1\. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/coderfeye13/public-toilet-finder
 cd public-toilet-finder
 ```
 
