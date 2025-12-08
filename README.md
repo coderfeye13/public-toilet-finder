@@ -230,11 +230,12 @@ _A full HTML Lighthouse report is included in the project export._
 
 ## 🔮 Future Improvements
 
-- [ ] Add attributes such as cost, opening hours, indoor/outdoor
-- [ ] Support routing to nearest toilet
-- [ ] Add search functionality
-- [ ] Use clustering for better map readability
-- [ ] Allow users to add toilet suggestions (WFS-T)
+- Nearest public toilet routing using shortest path algorithms  
+- Marker clustering for dense urban areas  
+- WFS-T support for user-driven data updates  
+- Advanced filters (price, opening hours, gender-specific toilets)  
+- Progressive Web App (PWA) support for offline usage  
+- Real-time user feedback and ratings  
 
 ---
 
