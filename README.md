@@ -12,7 +12,7 @@ This project is a web-based map application that displays public toilets in the 
 - Use custom floating map controls (Zoom In, Zoom Out, Recenter)
 - Navigate a responsive and highly accessible interface
 
-_This application was developed as part of a university GIS / Web Mapping assignment._
+_This application was developed as part of the Geographical Web Development course at HAW Kiel._
 
 ---
 
