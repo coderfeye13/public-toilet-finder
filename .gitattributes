@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+# Exclude HTML/CSS from language stats so Vue is shown as the primary language
+*.html linguist-vendored
+*.css linguist-vendored
+
+# Ensure Vue files are detected correctly
+*.vue linguist-detectable=true
+*.vue linguist-language=Vue
